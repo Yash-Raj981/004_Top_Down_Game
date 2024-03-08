@@ -14,7 +14,7 @@ It's a top down camera game just like Pokemon GBA games. I used to play them a l
 
 ## General Information 🙋‍♂️
 
-The project was made by using the IDE "Visual Studio Code" to write the code and use the terminal. The project has only one HTML, CSS and JS file. Also, the project uses a 3 different font files, the font is "Poppins".
+The project was made by using the IDE "Visual Studio Code" to write the code and use the terminal. The project has only one HTML, CSS and JS file.
 
 ## Technologies ⚙️
 
